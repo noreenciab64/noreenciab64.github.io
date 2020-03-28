@@ -1,0 +1,54 @@
+body {
+	background-image: url("starry night.jpg");
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 10px;
+}
+
+img {
+	color: white;
+}
+
+img.rounded-corners{
+	border-radius: 50%;
+}
+
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1,h2 {
+	color: lightsalmon;
+	text-align: center;
+	font-family: cursive;
+	font-size: 200%;
+	padding: 10px;
+	border-style: dotted;
+	border-color: white;
+	border-width: thick;
+	border-radius: 25px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+li, .p1 {
+	color: lightpink;
+	font-size: 125%;
+	background-color: rgba(0, 0, 0, 0.4);
+	text-align: left;
+}
+
+.p1 {
+	text-indent: 40px;
+}
+
+p {
+	color: bisque;
+	text-align: center;
+	font-size: 125%;
+}
